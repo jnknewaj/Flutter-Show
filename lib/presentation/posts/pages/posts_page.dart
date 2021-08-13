@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:json_parsing/application/post/blocs/posts/posts_bloc.dart';
 import 'package:json_parsing/injection.dart';
-import 'package:json_parsing/presentation/posts/widgets/empty_widget.dart';
 import 'package:json_parsing/utils/helper.dart';
 import 'package:super_ui/super_ui.dart';
 
